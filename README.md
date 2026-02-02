@@ -9,3 +9,5 @@ It is commonly used to host open source software development projects. As of Jan
 Founding
 The development of the GitHub platform began on October 19, 2007. The site was launched in April 2008 by Tom Preston-Werner, Chris Wanstrath, P. J. Hyett and Scott Chacon after it had been available for a few months as a beta release.
 
+Structure of the organization
+GitHub was originally a flat organization with no middle managers, instead relying on self-management. Employees could choose to work on projects that interested them (open allocation), but the chief executive set salaries.
